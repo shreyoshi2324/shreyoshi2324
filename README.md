@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyoshi Chaudhuri</h1>
-<h3 align="center">Frontend Developer and Engineering Student.</h3>
+<h3 align="center">Web Developer and Engineering Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyoshi2324&label=Profile%20views&color=0e75b6&style=flat" alt="shreyoshi2324" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyoshi2324](https://github.com/shreyoshi2324)
-
-- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **shreyoshic23@gmail.com**
 
