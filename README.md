@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shreyoshi2324&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyoshi2324&theme=tokyonight" />
 </p>
 
 ### 🤝 Connect with me:
