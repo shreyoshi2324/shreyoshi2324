@@ -11,7 +11,6 @@
 - 🌱 I’m currently deep-diving into the **MERN stack**
 - 👨‍💻 All of my projects are available at [github.com/shreyoshi2324](https://github.com/shreyoshi2324)
 - 📫 How to reach me: **shreyoshic23@gmail.com**
-- ⚡ Fun fact: I enjoy bridging the gap between hardware (Arduino) and modern web software.
 
 ### 🛠 Languages and Tools
 
@@ -24,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
-**Languages & Backend**
+**Languages**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
@@ -35,8 +34,6 @@
 
 **Systems & Tools**
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
